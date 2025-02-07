@@ -68,7 +68,7 @@ h1 {
 }
 
 .item-secondary {
-  background-color: #5ccad7;
+  background-color:rgb(76, 216, 139);
   color: #fff;
 }
 
